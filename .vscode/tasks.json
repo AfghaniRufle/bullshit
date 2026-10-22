@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "configurete",
+      "type": "process",
+      "command": "cmake",
+      "args": ["-G", "MinGW Makefiles", "-B", "build"],
+      "problemMatcher": []
+    },
+    {
+      "label": "buildte",
+      "type": "process",
+      "command": "cmake",
+      "args": ["--build", "build"],
+      "problemMatcher": ["$gcc"]
+    },
+    {
+      "label": "build and runte",
+      "type": "process",
+      "command": "${workspaceFolder}/build/sandbx.exe",
+      "dependsOn": "buildte",
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": []
+    }
+  ]
+}
