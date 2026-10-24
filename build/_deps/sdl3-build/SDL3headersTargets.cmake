@@ -50,7 +50,7 @@ unset(_cmake_expected_targets)
 add_library(SDL3::Headers INTERFACE IMPORTED)
 
 set_target_properties(SDL3::Headers PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/build/_deps/sdl3-build/include-revision;C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/build/_deps/sdl3-src/include"
+  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-revision;C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include"
 )
 
 # This file does not depend on other imported targets which have
