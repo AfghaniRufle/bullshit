@@ -1,0 +1,105 @@
+_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.obj: \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_rumble.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapijoystick_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/joystick/usb_ids.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\joystick\hidapi\SDL_hidapi_rumble.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/thread/SDL_systhread.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/thread/SDL_thread_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/thread/windows/SDL_systhread_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/excpt.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ C:/mingw-afghani/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/stdarg.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/stdarg.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windef.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winapifamily.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/minwindef.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/specstrings.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sal.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/concurrencysal.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/driverspecs.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winnt.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw_unicode.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/ctype.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/corecrt_wctype.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/apiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/psdk_inc/intrin-impl.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/basetsd.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/guiddef.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/string.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack4.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/poppack.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack4.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack2.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/poppack.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack2.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack8.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack8.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/ktmtypes.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winbase.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/apisetcconv.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/minwinbase.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/bemapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/debugapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/errhandlingapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/fibersapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/fileapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/handleapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/heapapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/ioapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/interlockedapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/jobapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/libloaderapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/memoryapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/namedpipeapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/namespaceapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/processenv.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/processthreadsapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/processtopologyapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/profileapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/realtimeapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/securityappcontainer.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/securitybaseapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/synchapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sysinfoapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/systemtopologyapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/threadpoolapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/threadpoollegacyapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/utilapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/wow64apiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winerror.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/fltwinerror.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/timezoneapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/wingdi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack1.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winuser.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/tvout.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winnls.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/datetimeapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/stringapiset.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/wincon.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/wincontypes.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/consoleapi.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/consoleapi2.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/consoleapi3.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winver.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winreg.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/reason.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winnetwk.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/wnnc.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/virtdisk.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/stralign.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sec_api/stralign_s.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winsvc.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mcx.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/imm.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/basetyps.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mmreg.h \
+ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack1.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_error_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h

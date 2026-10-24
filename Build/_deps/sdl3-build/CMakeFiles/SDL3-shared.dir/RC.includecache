@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/version.rc
+winresrc.h
+C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/winresrc.h
+
