@@ -57,9 +57,9 @@ int main(int argc, char* argv[]) {
                 pixels[y * width + x] =
                     0xFF000000u | (red << 16) | (green << 8) | blue;
             }
-        }
+        }      
         SDL_UpdateTexture(framebufferTexture, NULL, pixels.data(), width * sizeof(std::uint32_t));
-        //SDL_RenderClear(renderer);
+        SDL_RenderClear(renderer);
        SDL_RenderTexture(renderer, framebufferTexture, NULL, NULL); // Tempel texture ke layar
         SDL_RenderPresent(renderer); // Munculkan!
     }
