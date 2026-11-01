@@ -8,7 +8,7 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.h.gch
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_utils_c.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/dynapi/SDL_dynapi.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/dynapi/SDL_dynapi_overrides.h
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -2323,7 +2323,7 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dialog/windows/SDL_windowsdialog
 
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/dynapi/SDL_dynapi.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h

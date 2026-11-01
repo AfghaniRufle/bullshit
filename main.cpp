@@ -11,6 +11,7 @@ int main(int argc, char* argv[]) {
     constexpr int width = 670;
     constexpr int height = 500;
     bool done = false;
+    
      window = SDL_CreateWindow(
         "An SDL3 window",                  // window title
         width,                               // width, in pixels

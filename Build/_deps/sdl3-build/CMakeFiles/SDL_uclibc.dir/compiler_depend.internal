@@ -3,7 +3,7 @@
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_atan2.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_atan2.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -241,7 +241,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_atan2.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_exp.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_exp.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -479,7 +479,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_exp.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_fmod.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_fmod.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -717,7 +717,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_fmod.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_log.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_log.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -955,7 +955,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_log.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_log10.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_log10.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -1193,7 +1193,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_log10.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_pow.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_pow.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -1431,7 +1431,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_pow.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_rem_pio2.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_rem_pio2.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -1669,7 +1669,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_rem_pio2.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_sqrt.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/e_sqrt.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -1907,7 +1907,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/e_sqrt.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_cos.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/k_cos.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -2145,7 +2145,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_cos.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_rem_pio2.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/k_rem_pio2.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -2383,7 +2383,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_rem_pio2.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_sin.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/k_sin.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -2621,7 +2621,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_sin.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_tan.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/k_tan.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -2859,7 +2859,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/k_tan.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_atan.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_atan.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -3097,7 +3097,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_atan.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_copysign.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_copysign.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -3335,7 +3335,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_copysign.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_cos.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_cos.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -3573,7 +3573,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_cos.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_fabs.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_fabs.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -3811,7 +3811,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_fabs.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_floor.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_floor.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -4049,7 +4049,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_floor.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isinf.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_isinf.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -4286,7 +4286,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isinf.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isinff.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_isinff.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -4523,7 +4523,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isinff.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isnan.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_isnan.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -4760,7 +4760,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isnan.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isnanf.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_isnanf.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -4997,7 +4997,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_isnanf.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_modf.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_modf.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -5235,7 +5235,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_modf.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_scalbn.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_scalbn.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -5473,7 +5473,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_scalbn.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_sin.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_sin.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h
@@ -5711,7 +5711,7 @@ _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_sin.c.obj
 
 _deps/sdl3-build/CMakeFiles/SDL_uclibc.dir/src/libm/s_tan.c.obj
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/libm/s_tan.c
- C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-/build_config/SDL_build_config.h
+ C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h
  C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h

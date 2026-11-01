@@ -7,7 +7,7 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.h.gch: _deps/sdl3-build/CM
   _deps/sdl3-src/src/SDL_utils_c.h \
   _deps/sdl3-src/src/dynapi/SDL_dynapi.h \
   _deps/sdl3-src/src/dynapi/SDL_dynapi_overrides.h \
-  _deps/sdl3-build/include-config-/build_config/SDL_build_config.h \
+  _deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h \
   _deps/sdl3-src/include/SDL3/SDL.h \
   _deps/sdl3-src/include/SDL3/SDL_assert.h \
   _deps/sdl3-src/include/SDL3/SDL_asyncio.h \
@@ -2284,7 +2284,7 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dialog/windows/SDL_windowsdialog
   _deps/sdl3-src/src/dialog/windows/SDL_windowsdialog.c
 
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.obj: _deps/sdl3-src/src/dynapi/SDL_dynapi.c \
-  _deps/sdl3-build/include-config-/build_config/SDL_build_config.h \
+  _deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h \
   _deps/sdl3-src/include/SDL3/SDL.h \
   _deps/sdl3-src/include/SDL3/SDL_assert.h \
   _deps/sdl3-src/include/SDL3/SDL_asyncio.h \
@@ -12465,8 +12465,6 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/video/yuv2rgb/yuv_rgb_std.c.obj:
   _deps/sdl3-src/src/video/yuv2rgb/yuv_rgb_std_func.h
 
 
-_deps/sdl3-build/include-config-/build_config/SDL_build_config.h:
-
 _deps/sdl3-src/src/video/windows/SDL_windowswindow.h:
 
 _deps/sdl3-src/src/dynapi/SDL_dynapi.h:
@@ -12504,6 +12502,18 @@ _deps/sdl3-src/src/audio/SDL_audio_c.h:
 _deps/sdl3-src/src/render/vulkan/VULKAN_PixelShader_Textures.h:
 
 _deps/sdl3-src/src/dynapi/SDL_dynapi_overrides.h:
+
+_deps/sdl3-src/src/libm/math_libm.h:
+
+_deps/sdl3-src/include/SDL3/SDL_haptic.h:
+
+_deps/sdl3-src/src/thread/generic/SDL_systhread_c.h:
+
+C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.gaming.input.forcefeedback.h:
+
+C:/mingw-afghani/mingw32/i686-w64-mingw32/include/apiset.h:
+
+_deps/sdl3-build/include-config-debug/build_config/SDL_build_config.h:
 
 _deps/sdl3-src/include/SDL3/SDL_blendmode.h:
 
@@ -12620,10 +12630,6 @@ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/psdk_inc/_socket_types.h:
 _deps/sdl3-src/include/SDL3/SDL_properties.h:
 
 _deps/sdl3-src/include/SDL3/SDL_guid.h:
-
-_deps/sdl3-src/src/libm/math_libm.h:
-
-_deps/sdl3-src/include/SDL3/SDL_haptic.h:
 
 _deps/sdl3-src/src/render/gpu/SDL_render_gpu.c:
 
@@ -13378,12 +13384,6 @@ C:/mingw-afghani/mingw32/i686-w64-mingw32/include/wincon.h:
 _deps/sdl3-src/src/SDL_utils.c:
 
 _deps/sdl3-src/include/SDL3/SDL_vulkan.h:
-
-_deps/sdl3-src/src/thread/generic/SDL_systhread_c.h:
-
-C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.gaming.input.forcefeedback.h:
-
-C:/mingw-afghani/mingw32/i686-w64-mingw32/include/apiset.h:
 
 C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack2.h:
 
