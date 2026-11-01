@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/main.cpp" "CMakeFiles/sandbx.dir/main.cpp.obj" "gcc" "CMakeFiles/sandbx.dir/main.cpp.obj.d"
+  "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/main.cpp" "CMakeFiles/sandbx.dir/main.cpp.obj" "gcc" "CMakeFiles/sandbx.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

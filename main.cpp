@@ -2,7 +2,6 @@
 #include <cstdint>
 #include <vector>
 #include <SDL3/SDL.h>
-#include <SDL3/SDL_main.h>
 
 int main(int argc, char* argv[]) {
     SDL_Window *window;                    // Declare a pointer
@@ -42,18 +41,26 @@ int main(int argc, char* argv[]) {
 
     while (!done) {
         SDL_Event event;
-
+        int babayaga;
         while (SDL_PollEvent(&event)) {
             if (event.type == SDL_EVENT_QUIT) {
                 done = true;
+            }
+
+            if (event.type == SDL_EVENT_KEY_DOWN) {
+                SDL_Log("Key pressed: ");
+                babayaga = 0;
+            } else if(event.type == SDL_EVENT_KEY_UP) {
+                SDL_Log("Key released: ");
+                babayaga = 1;
             }
         }
 
         for (int y = 0; y < height; ++y) {
             for (int x = 0; x < width; ++x) {
-                const std::uint32_t red = (x * 255) / width;
-                const std::uint32_t green = (y * 255) / height;
-                const std::uint32_t blue = ((x + y) * 255) / (width + height);
+                const std::uint32_t red = ((x * 255) / width)*babayaga;
+                const std::uint32_t green = ((y * 255) / height)*babayaga;
+                const std::uint32_t blue = (((x + y) * 255) / (width + height))*babayaga;
                 pixels[y * width + x] =
                     0xFF000000u | (red << 16) | (green << 8) | blue;
             }

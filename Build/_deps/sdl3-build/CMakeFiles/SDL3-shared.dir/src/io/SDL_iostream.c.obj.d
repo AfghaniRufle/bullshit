@@ -1,7 +1,7 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/io/SDL_iostream.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\io\SDL_iostream.c \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\io\SDL_iostream.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
@@ -103,4 +103,4 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/io/SDL_iostream.c.obj: \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sys/types.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw_stat64.h \
  C:/mingw-afghani/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/limits.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\io\SDL_iostream_c.h
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\io\SDL_iostream_c.h

@@ -1,8 +1,8 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/SDL.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL.c \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_internal.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/SDL3-B~1/INCLUD~1/SDL3/SDL_revision.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\core/windows/SDL_windows.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL.c \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_internal.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/SDL3-B~1/INCLUD~1/SDL3/SDL_revision.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
@@ -96,55 +96,55 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/SDL.c.obj: \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/basetyps.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mmreg.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack1.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\core/linux/SDL_dbus.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_assert_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_hints_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_log_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_properties_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\audio/SDL_sysaudio.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\camera/SDL_camera_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\cpuinfo/SDL_cpuinfo_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_events_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_error.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_video.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/video/SDL_blit.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_clipboardevents_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_displayevents_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_dropevents_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_keyboard_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_keymap_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_mouse_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_touch_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_pen_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\events/SDL_windowevents_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\haptic/SDL_haptic_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\joystick/SDL_gamepad_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\joystick/SDL_joystick_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render/SDL_sysrender.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render/SDL_yuv_sw_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\sensor/SDL_sensor_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\stdlib/SDL_getenv_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\thread/SDL_thread_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\thread/windows/SDL_systhread_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_error_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\tray/SDL_tray_utils.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\video/SDL_pixels_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\video/SDL_blit.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\video/SDL_surface_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\video/SDL_video_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\filesystem/SDL_filesystem_c.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\io/SDL_asyncio_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\timer/SDL_timer_c.h
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\core/linux/SDL_dbus.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_assert_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_hints_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_log_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_properties_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\audio/SDL_sysaudio.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\camera/SDL_camera_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\cpuinfo/SDL_cpuinfo_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_events_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/video/SDL_sysvideo.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/video/SDL_blit.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_clipboardevents_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_displayevents_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_dropevents_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_keyboard_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_keymap_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_mouse_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_touch_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_pen_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\events/SDL_windowevents_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\haptic/SDL_haptic_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\joystick/SDL_gamepad_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\joystick/SDL_joystick_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render/SDL_sysrender.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render/SDL_yuv_sw_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\sensor/SDL_sensor_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\stdlib/SDL_getenv_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\thread/SDL_thread_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\thread/windows/SDL_systhread_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/SDL_error_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\tray/SDL_tray_utils.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\video/SDL_pixels_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\video/SDL_blit.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\video/SDL_surface_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\video/SDL_video_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\filesystem/SDL_filesystem_c.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\io/SDL_asyncio_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\timer/SDL_timer_c.h

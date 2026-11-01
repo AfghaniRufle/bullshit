@@ -1,12 +1,12 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/haptic/windows/SDL_windowshaptic.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\haptic\windows\SDL_windowshaptic.c \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/haptic/SDL_syshaptic.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/joystick/SDL_sysjoystick.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/joystick/SDL_joystick_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/joystick/windows/SDL_windowsjoystick_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/joystick/SDL_sysjoystick.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\haptic\windows\SDL_windowshaptic.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/haptic/SDL_syshaptic.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/joystick/SDL_sysjoystick.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/joystick/SDL_joystick_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/joystick/windows/SDL_windowsjoystick_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/joystick/SDL_sysjoystick.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
@@ -100,8 +100,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/haptic/windows/SDL_windowshaptic
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/basetyps.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mmreg.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack1.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_directx.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_directx.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mmsystem.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mmsyscom.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mciapi.h \
@@ -142,10 +142,10 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/haptic/windows/SDL_windowshaptic
  C:/mingw-afghani/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/float.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/float.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/dinput.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/joystick/windows/SDL_xinputjoystick_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_xinput.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/joystick/windows/SDL_xinputjoystick_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_xinput.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/xinput.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\haptic\windows\SDL_windowshaptic_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_directx.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_xinput.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\haptic\windows\SDL_dinputhaptic_c.h
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\haptic\windows\SDL_windowshaptic_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_directx.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_xinput.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\haptic\windows\SDL_dinputhaptic_c.h

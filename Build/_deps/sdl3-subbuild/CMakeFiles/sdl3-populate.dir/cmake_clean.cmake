@@ -6,9 +6,9 @@ file(REMOVE_RECURSE
   "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download"
   "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install"
   "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir"
-  "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch"
+  "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected"
   "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test"
-  "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update"
+  "sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected"
 )
 
 # Per-language clean rules from dependency scanning.

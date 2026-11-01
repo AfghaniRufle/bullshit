@@ -1,7 +1,7 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/SDL_hashtable.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_hashtable.c \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\SDL_hashtable.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_hashtable.c \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\SDL_hashtable.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \

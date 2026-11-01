@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit"
+CMAKE_SOURCE_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build"
+CMAKE_BINARY_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build"
 
 # Include any dependencies generated for this target.
 include _deps/sdl3-build/CMakeFiles/SDL3_test.dir/depend.make
@@ -75,151 +75,151 @@ _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj: _deps/
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj: _deps/sdl3-src/src/test/SDL_test_assert.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_assert.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_assert.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_assert.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_assert.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_assert.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_assert.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_assert.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_assert.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj: _deps/sdl3-src/src/test/SDL_test_common.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_common.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_common.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_common.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_common.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_common.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_common.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_common.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_common.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj: _deps/sdl3-src/src/test/SDL_test_compare.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_compare.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_compare.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_compare.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_compare.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_compare.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_compare.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_compare.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_compare.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj: _deps/sdl3-src/src/test/SDL_test_crc32.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_crc32.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_crc32.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_crc32.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_crc32.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_crc32.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_crc32.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_crc32.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_crc32.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj: _deps/sdl3-src/src/test/SDL_test_font.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_font.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_font.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_font.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_font.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_font.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_font.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_font.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_font.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj: _deps/sdl3-src/src/test/SDL_test_fuzzer.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_fuzzer.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_fuzzer.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_fuzzer.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_fuzzer.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_fuzzer.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_fuzzer.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_fuzzer.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_fuzzer.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj: _deps/sdl3-src/src/test/SDL_test_harness.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_harness.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_harness.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_harness.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_harness.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_harness.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_harness.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_harness.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_harness.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj: _deps/sdl3-src/src/test/SDL_test_log.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_log.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_log.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_log.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_log.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_log.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_log.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_log.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_log.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj: _deps/sdl3-src/src/test/SDL_test_md5.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_md5.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_md5.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_md5.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_md5.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_md5.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_md5.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_md5.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_md5.c.s
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/flags.make
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/includes_C.rsp
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj: _deps/sdl3-src/src/test/SDL_test_memory.c
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_memory.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj -MF CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.obj.d -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.obj -c "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_memory.c"
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.i"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_memory.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.i
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_memory.c" > CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.i
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.s"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src\src\test\SDL_test_memory.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.s
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && C:\mingw-afghani\mingw32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src\src\test\SDL_test_memory.c" -o CMakeFiles\SDL3_test.dir\src\test\SDL_test_memory.c.s
 
 # Object files for target SDL3_test
 SDL3_test_OBJECTS = \
@@ -249,19 +249,19 @@ _deps/sdl3-build/libSDL3_test.a: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/t
 _deps/sdl3-build/libSDL3_test.a: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/src/test/SDL_test_memory.c.obj
 _deps/sdl3-build/libSDL3_test.a: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/build.make
 _deps/sdl3-build/libSDL3_test.a: _deps/sdl3-build/CMakeFiles/SDL3_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking C static library libSDL3_test.a"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && $(CMAKE_COMMAND) -P CMakeFiles\SDL3_test.dir\cmake_clean_target.cmake
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SDL3_test.dir\link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking C static library libSDL3_test.a"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && $(CMAKE_COMMAND) -P CMakeFiles\SDL3_test.dir\cmake_clean_target.cmake
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SDL3_test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/build: _deps/sdl3-build/libSDL3_test.a
 .PHONY : _deps/sdl3-build/CMakeFiles/SDL3_test.dir/build
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/clean:
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && $(CMAKE_COMMAND) -P CMakeFiles\SDL3_test.dir\cmake_clean.cmake
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && $(CMAKE_COMMAND) -P CMakeFiles\SDL3_test.dir\cmake_clean.cmake
 .PHONY : _deps/sdl3-build/CMakeFiles/SDL3_test.dir/clean
 
 _deps/sdl3-build/CMakeFiles/SDL3_test.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-src" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-build" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-build\CMakeFiles\SDL3_test.dir\DependInfo.cmake" "--color=$(COLOR)" SDL3_test
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-src" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-build" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-build\CMakeFiles\SDL3_test.dir\DependInfo.cmake" "--color=$(COLOR)" SDL3_test
 .PHONY : _deps/sdl3-build/CMakeFiles/SDL3_test.dir/depend
 

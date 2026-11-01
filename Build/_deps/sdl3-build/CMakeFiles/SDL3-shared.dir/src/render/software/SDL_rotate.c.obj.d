@@ -1,7 +1,7 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_rotate.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render\software\SDL_rotate.c \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render\software\SDL_rotate.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
@@ -95,6 +95,6 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_rotate.c.obj
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/basetyps.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mmreg.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/pshpack1.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render\software\SDL_rotate.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/video/SDL_surface_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/video/SDL_blit.h
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render\software\SDL_rotate.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/video/SDL_surface_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/video/SDL_blit.h

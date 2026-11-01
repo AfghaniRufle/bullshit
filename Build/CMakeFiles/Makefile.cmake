@@ -71,6 +71,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-4.4/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files/CMake/share/cmake-4.4/Modules/WriteBasicConfigVersionFile.cmake"
+  "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/CMakeLists.txt"
   "CMakeFiles/4.4.2/CMakeCCompiler.cmake"
   "CMakeFiles/4.4.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.4.2/CMakeRCCompiler.cmake"
@@ -95,7 +96,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "_deps/sdl3-src/cmake/sdltargets.cmake"
   "_deps/sdl3-src/include/build_config/SDL_build_config.h.cmake"
   "_deps/sdl3-src/include/build_config/SDL_revision.h.cmake"
-  "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/CMakeLists.txt"
   )
 
 # The corresponding makefile is:

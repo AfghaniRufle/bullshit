@@ -1,10 +1,10 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/sensor/windows/SDL_windowssensor.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\sensor\windows\SDL_windowssensor.c \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\sensor\windows\SDL_windowssensor.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/sensor/SDL_syssensor.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/sensor/SDL_sensor_c.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\sensor\windows\SDL_windowssensor.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\sensor\windows\SDL_windowssensor.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/sensor/SDL_syssensor.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/sensor/SDL_sensor_c.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \

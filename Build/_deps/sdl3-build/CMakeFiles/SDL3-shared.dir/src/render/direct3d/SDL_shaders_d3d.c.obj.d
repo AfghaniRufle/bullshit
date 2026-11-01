@@ -1,7 +1,7 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/direct3d/SDL_shaders_d3d.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render\direct3d\SDL_shaders_d3d.c \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/src/SDL_internal.h \
- C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/bullshit/Build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render\direct3d\SDL_shaders_d3d.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/src/SDL_internal.h \
+ C:/Users/WIN11/Desktop/DO\ NOT\ MOVE\ C++\ POJ/Input-test/build/_deps/sdl3-src/src/core/windows/SDL_windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
@@ -123,5 +123,5 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/render/direct3d/SDL_shaders_d3d.
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/propidl.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/d3d9types.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/d3d9caps.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render\direct3d\SDL_shaders_d3d.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\render\direct3d\D3D9_PixelShader_YUV.h
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render\direct3d\SDL_shaders_d3d.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\render\direct3d\D3D9_PixelShader_YUV.h

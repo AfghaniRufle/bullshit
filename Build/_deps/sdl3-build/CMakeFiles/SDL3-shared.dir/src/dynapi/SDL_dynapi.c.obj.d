@@ -1,9 +1,9 @@
 _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.obj: \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\dynapi\SDL_dynapi.c \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/SDL3-B~1/INCLUD~3/BUILD_~1/SDL_build_config.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_platform_defines.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\dynapi\SDL_dynapi.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\dynapi\SDL_dynapi_unsupported.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\dynapi\SDL_dynapi.c \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/SDL3-B~1/INCLUD~2/BUILD_~1/SDL_build_config.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_platform_defines.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\dynapi\SDL_dynapi.h \
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\dynapi\SDL_dynapi_unsupported.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/stdio.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/corecrt_stdio_config.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/corecrt.h \
@@ -25,8 +25,8 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.obj: \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/malloc.h \
  C:/mingw-afghani/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/mm_malloc.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/errno.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_stdinc.h \
  C:/mingw-afghani/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/stdarg.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/stdarg.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h \
@@ -42,67 +42,67 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.obj: \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sec_api/wchar_s.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/inttypes.h \
  C:/mingw-afghani/mingw32/lib/gcc/i686-w64-mingw32/15.2.0/include/stdbool.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_assert.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_atomic.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_audio.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_endian.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_error.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_mutex.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_thread.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_properties.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_begin_code.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_close_code.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_assert.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_asyncio.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_atomic.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_audio.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_endian.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_error.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_mutex.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_thread.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_properties.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/process.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/corecrt_startup.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sys/types.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_iostream.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_bits.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_blendmode.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_camera.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_pixels.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_surface.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_rect.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_clipboard.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_cpuinfo.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_dialog.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_video.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_events.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_gamepad.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_guid.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_joystick.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_power.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_sensor.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_keyboard.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_keycode.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_scancode.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_mouse.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_pen.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_touch.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_filesystem.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_gpu.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_haptic.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_hidapi.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_hints.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_init.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_loadso.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_locale.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_log.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_messagebox.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_metal.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_misc.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_platform.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_process.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_render.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_storage.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_system.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_time.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_timer.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_tray.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_version.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_oldnames.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_main.h \
- C:/Users/WIN11/Desktop/DONOTM~1/bullshit/Build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_iostream.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_bits.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_blendmode.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_camera.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_pixels.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_surface.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_rect.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_clipboard.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_cpuinfo.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_dialog.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_video.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_events.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_gamepad.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_guid.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_joystick.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_power.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_sensor.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_keyboard.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_keycode.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_scancode.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_mouse.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_pen.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_touch.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_filesystem.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_gpu.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_haptic.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_hidapi.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_hints.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_init.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_loadso.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_locale.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_log.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_messagebox.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_metal.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_misc.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_platform.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_process.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_render.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_storage.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_system.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_time.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_timer.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_tray.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_version.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_oldnames.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_main.h \
+ C:/Users/WIN11/Desktop/DONOTM~1/INPUT-~1/build/_deps/sdl3-src/include/SDL3/SDL_vulkan.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/windows.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/sdkddkver.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/excpt.h \
@@ -186,4 +186,4 @@ _deps/sdl3-build/CMakeFiles/SDL3-shared.dir/src/dynapi/SDL_dynapi.c.obj: \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/winsvc.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/mcx.h \
  C:/mingw-afghani/mingw32/i686-w64-mingw32/include/imm.h \
- C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\bullshit\Build\_deps\sdl3-src\src\dynapi\SDL_dynapi_procs.h
+ C:\Users\WIN11\Desktop\DO\ NOT\ MOVE\ C++\ POJ\Input-test\build\_deps\sdl3-src\src\dynapi\SDL_dynapi_procs.h

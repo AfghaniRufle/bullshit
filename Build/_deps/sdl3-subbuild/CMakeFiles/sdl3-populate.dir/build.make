@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild"
+CMAKE_SOURCE_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild"
+CMAKE_BINARY_DIR = "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild"
 
 # Utility rule file for sdl3-populate.
 
@@ -70,66 +70,61 @@ CMakeFiles/sdl3-populate: CMakeFiles/sdl3-populate-complete
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download
-CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update
-CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch
+CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected
+CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install
 CMakeFiles/sdl3-populate-complete: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Completed 'sdl3-populate'"
-	"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/CMakeFiles"
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete"
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-done"
-
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update:
-.PHONY : sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Completed 'sdl3-populate'"
+	"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/CMakeFiles"
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete"
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-done"
 
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'sdl3-populate'"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'sdl3-populate'"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build"
 
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure: sdl3-populate-prefix/tmp/sdl3-populate-cfgcmd.txt
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'sdl3-populate'"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure"
+sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'sdl3-populate'"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure"
 
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-gitinfo.txt
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'sdl3-populate'"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps && "C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-gitclone.cmake"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'sdl3-populate'"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps && "C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-gitclone.cmake"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download"
 
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'sdl3-populate'"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'sdl3-populate'"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install"
 
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'sdl3-populate'"
-	"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir= -P "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-mkdirs.cmake"
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'sdl3-populate'"
+	"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir= -P "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-mkdirs.cmake"
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir"
 
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch-info.txt
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'sdl3-populate'"
+sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch-info.txt
+sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "No patch_disconnected step for 'sdl3-populate'"
 	"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch"
-
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update:
-.PHONY : sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected"
 
 sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'sdl3-populate'"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'sdl3-populate'"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\SDL3-B~1 && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test"
 
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update: sdl3-populate-prefix/tmp/sdl3-populate-gitupdate.cmake
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update-info.txt
-sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'sdl3-populate'"
-	cd /d C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\sdl3-src && "C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-gitupdate.cmake"
+sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected: sdl3-populate-prefix/tmp/sdl3-populate-gitupdate.cmake
+sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update-info.txt
+sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Performing disconnected update step for 'sdl3-populate'"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\sdl3-src && "C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=NO -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-gitupdate.cmake"
+	cd /d C:\Users\WIN11\Desktop\DONOTM~1\INPUT-~1\build\_deps\sdl3-src && "C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/Input-test/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected"
 
 CMakeFiles/sdl3-populate.dir/codegen:
 .PHONY : CMakeFiles/sdl3-populate.dir/codegen
@@ -141,9 +136,9 @@ sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-config
 sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download
 sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install
 sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir
-sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch
+sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch_disconnected
 sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test
-sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update
+sdl3-populate: sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update_disconnected
 sdl3-populate: CMakeFiles/sdl3-populate.dir/build.make
 .PHONY : sdl3-populate
 
@@ -156,6 +151,6 @@ CMakeFiles/sdl3-populate.dir/clean:
 .PHONY : CMakeFiles/sdl3-populate.dir/clean
 
 CMakeFiles/sdl3-populate.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\bullshit\Build\_deps\sdl3-subbuild\CMakeFiles\sdl3-populate.dir\DependInfo.cmake" "--color=$(COLOR)" sdl3-populate
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild" "C:\Users\WIN11\Desktop\DO NOT MOVE C++ POJ\Input-test\build\_deps\sdl3-subbuild\CMakeFiles\sdl3-populate.dir\DependInfo.cmake" "--color=$(COLOR)" sdl3-populate
 .PHONY : CMakeFiles/sdl3-populate.dir/depend
 
