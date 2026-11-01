@@ -6,12 +6,13 @@
             "type": "process",
             "command": "cmake",
             "args": [
-                "-G",
-                "MinGW Makefiles",
-                "-B",
-                "build"
-            ],
-            "problemMatcher": []
+            "-G",
+            "MinGW Makefiles",
+            "-B",
+            "build",
+            "-DCMAKE_BUILD_TYPE=Debug"
+    ],
+    "problemMatcher": []
         },
         {
             "label": "buildte",
@@ -35,6 +36,6 @@
                 "isDefault": false
             },
             "problemMatcher": []
-        },
+        }
     ]
 }

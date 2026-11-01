@@ -13,8 +13,8 @@ int main(int argc, char* argv[]) {
     bool done = false;
      window = SDL_CreateWindow(
         "An SDL3 window",                  // window title
-        670,                               // width, in pixels
-        500,                               // height, in pixels
+        width,                               // width, in pixels
+        height,                               // height, in pixels
         0       // flags - see below
     );
     renderer = SDL_CreateRenderer(window, NULL);

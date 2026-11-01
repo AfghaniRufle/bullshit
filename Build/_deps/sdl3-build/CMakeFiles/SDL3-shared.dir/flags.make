@@ -7,11 +7,11 @@ C_DEFINES = -DDLL_EXPORT -DSDL_BUILD_MAJOR_VERSION=3 -DSDL_BUILD_MICRO_VERSION=4
 
 C_INCLUDES = @CMakeFiles\SDL3-shared.dir\includes_C.rsp
 
-C_FLAGS = -Wall -Wundef -Wfloat-conversion -fno-strict-aliasing -Wshadow -Wno-unused-local-typedefs -Wimplicit-fallthrough -fdiagnostics-color=always "-idirafterC:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/video/khronos"
+C_FLAGS = -g -gdwarf-4 -Wall -Wundef -Wfloat-conversion -fno-strict-aliasing -Wshadow -Wno-unused-local-typedefs -Wimplicit-fallthrough -fdiagnostics-color=always "-idirafterC:/Users/WIN11/Desktop/DO NOT MOVE C++ POJ/bullshit/Build/_deps/sdl3-src/src/video/khronos"
 
 RC_DEFINES = -DDLL_EXPORT -DSDL_BUILD_MAJOR_VERSION=3 -DSDL_BUILD_MICRO_VERSION=4 -DSDL_BUILD_MINOR_VERSION=2 -DUSING_GENERATED_CONFIG_H
 
-RC_INCLUDES = -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1\INCLUD~2\BUILD_~1 -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1\INCLUD~1 -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\sdl3-src\include -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\sdl3-src\src
+RC_INCLUDES = -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1\INCLUD~3\BUILD_~1 -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\SDL3-B~1\INCLUD~1 -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\sdl3-src\include -I C:\Users\WIN11\Desktop\DONOTM~1\bullshit\Build\_deps\sdl3-src\src
 
 RC_FLAGS = 
 

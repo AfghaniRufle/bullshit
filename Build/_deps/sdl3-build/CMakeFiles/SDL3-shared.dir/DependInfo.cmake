@@ -22,7 +22,7 @@ set(CMAKE_TARGET_DEFINITIONS_RC
 
 # The include file search paths:
 set(CMAKE_RC_TARGET_INCLUDE_PATH
-  "_deps/sdl3-build/include-config-/build_config"
+  "_deps/sdl3-build/include-config-debug/build_config"
   "_deps/sdl3-build/include-revision"
   "_deps/sdl3-src/include"
   "_deps/sdl3-src/src"
