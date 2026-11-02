@@ -50,12 +50,14 @@ int main(int argc, char* argv[]) {
             }
 
             if (event.type == SDL_EVENT_KEY_DOWN) {
+                if(event.key.key != 'b'){
                 SDL_Log("Key pressed: %d",event.key.key);
+                }
                 if(event.key.key == 'a'){
                 SDL_Log("NIGGA");
                 }
             } 
-            if(keys[98]){
+            if(keys[SDL_SCANCODE_B]){
                 babayaga = 0;
                 SDL_Log("Key pss: %d",event.key.key);
             }
