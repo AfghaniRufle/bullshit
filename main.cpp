@@ -41,18 +41,23 @@ int main(int argc, char* argv[]) {
 
     while (!done) {
         SDL_Event event;
-        int babayaga;
+
+        const bool* keys = SDL_GetKeyboardState(nullptr);
+        int babayaga = 1;
         while (SDL_PollEvent(&event)) {
             if (event.type == SDL_EVENT_QUIT) {
                 done = true;
             }
 
             if (event.type == SDL_EVENT_KEY_DOWN) {
-                SDL_Log("Key pressed: ");
+                SDL_Log("Key pressed: %d",event.key.key);
+                if(event.key.key == 'a'){
+                SDL_Log("NIGGA");
+                }
+            } 
+            if(keys[98]){
                 babayaga = 0;
-            } else if(event.type == SDL_EVENT_KEY_UP) {
-                SDL_Log("Key released: ");
-                babayaga = 1;
+                SDL_Log("Key pss: %d",event.key.key);
             }
         }
 
