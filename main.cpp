@@ -77,11 +77,12 @@ int main(int argc, char* argv[]) {
        SDL_RenderTexture(renderer, framebufferTexture, NULL, NULL); // Tempel texture ke layar
         SDL_RenderPresent(renderer); // Munculkan!
     }
+    bool ghani = 0;
 
     // Close and destroy the window
     SDL_DestroyTexture(framebufferTexture);
     SDL_DestroyRenderer(renderer);
-    SDL_DestroyWindow(window);
+    SDL_DestroyWindow(window);//a
     // Clean up
     SDL_Quit();
     return 0;
